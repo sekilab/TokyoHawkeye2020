@@ -1,6 +1,6 @@
 # Tokyo Hawkeye 2020 Dataset
 ## Download
-(https://dummylink)
+https://dummylink
 ## Contents
 ### Images
 Images of dense urban areas of Tokyo, Japan taken from a high-altitude, steep (but not vertical) angle viewpoint. The listing of the areas are below:
