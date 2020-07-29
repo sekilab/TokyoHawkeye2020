@@ -25,7 +25,7 @@ The annotation format is single color channel .png file with seven possible colo
 
 ## Citation
 
-If you use or find out our dataset useful, please cite [our paper]()
+If you find our dataset useful, please cite [our paper]()
 
 [placeholder for paper details]
 
