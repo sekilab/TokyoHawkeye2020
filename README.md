@@ -8,7 +8,7 @@ Images of dense urban areas of Tokyo, Japan taken from a high-altitude, steep (b
 ![](/dataset.jpg)
 
 ### Head annotation
-For every image the heads of pedestrians (including bikers) are annotated. The annotation format is a list of (x,y) coordinated in a .mat file.
+For every image the heads of pedestrians (including bikers) are annotated. The annotation format is a list of (x,y) coordinates in a .mat file.
 
 ### Segmentation annotation
 The complete training set and nearly half of the validation set includes segmentation annotation, for seven classes:
