@@ -5,7 +5,7 @@
 ### Images
 Images of dense urban areas of Tokyo, Japan taken from a high-altitude, steep (but not vertical) angle viewpoint. The listing of the areas are below:
 
-image
+![](/dataset.jpg)
 
 ### Head annotation
 For every image the heads of pedestrians (including bikers) are annotated. The annotation format is a list of (x,y) coordinated in a .mat file.
