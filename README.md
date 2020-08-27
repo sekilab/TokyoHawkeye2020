@@ -1,6 +1,6 @@
-# Tokyo Hawkeye 2020 Dataset
+# Tokyo Hawkeye 2020 Pedestrian Dataset
 ## Download
-[dummylink]()
+[TH2020 dataset](https://sekilab-students.s3-ap-northeast-1.amazonaws.com/Gergely/TH2020/TH2020.zip)
 ## Contents
 ### Images
 Images of dense urban areas of Tokyo, Japan taken from a high-altitude, steep (but not vertical) angle viewpoint. The listing of the areas are below:
@@ -25,9 +25,9 @@ The annotation format is single color channel .png file with seven possible colo
 
 ## Citation
 
-If you find our dataset useful, please cite [our paper]()
+If you find our dataset useful, please cite [our paper](https://www.mdpi.com/1424-8220/20/17/4855)
 
-[placeholder for paper details]
+Csönde, G.; Sekimoto, Y.; Kashiyama, T. Crowd Counting with Semantic Scene Segmentation in Helicopter Footage. Sensors 2020, 20, 4855.
 
 # License
 Images on this dataset are available under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). The license and link to the legal document can be found next to every image on the service in the image information panel and contains the CC BY-SA 4.0 mark:
